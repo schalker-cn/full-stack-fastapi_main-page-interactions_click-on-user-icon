@@ -6,7 +6,6 @@ import {
   MenuItem,
   MenuList,
 } from "@chakra-ui/react"
-import { FaUserAstronaut } from "react-icons/fa"
 import { FiLogOut, FiUser } from "react-icons/fi"
 
 
